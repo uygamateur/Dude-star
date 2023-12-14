@@ -1,6 +1,4 @@
 User-agent: *
-Disallow: /css/
-Disallow: /scss/
-Disallow: /js/
-Disallow: /lib/
-Disallow: /LICENSE.txt
+Allow: /
+
+Sitemap: https://uygamateur.github.io/Dude-star/sitemap.xml
