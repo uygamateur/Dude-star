@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /css/
+Disallow: /scss/
+Disallow: /js/
+Disallow: /lib/
+Disallow: /LICENSE.txt
